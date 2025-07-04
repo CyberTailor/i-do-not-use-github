@@ -12,7 +12,7 @@ with a mirror of some of them on this site and at https://git.sr.ht/~cyber.
 Primarily because GitHub requires users to run
 [non-free JavaScript](https://www.gnu.org/philosophy/javascript-trap.en.html),
 which is by the way
-[broken in my browser](https://github.com/JustOff/github-wc-polyfill/issues/43),
+[broken in some browsers](https://github.com/JustOff/github-wc-polyfill/issues/43),
 to use all features of the website.
 Not only will I not do this,
 but I don't want to direct users to GitHub either,

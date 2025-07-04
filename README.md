@@ -1,6 +1,6 @@
 # I Do Not Use GitHub
 
-While you may see some commits of mine for projects i wanted to contribute to,
+While you may see some commits of mine for projects I wanted to contribute to,
 _I do not use GitHub for personal projects_.
 
 **My projects can be found at https://git.sysrq.in**,

@@ -39,9 +39,13 @@ which means that users are free to self-host using free software if they so choo
 
 ## Why not GitLab?
 
-The gitlab.com website is run by proprietary server software.
-Also,
-GitLab is not accessible without JavaScript enabled and hostile to Tor users.
+GitLab is being developed by a for-profit company,
+which inevitably appreciate shareholders more than users.
+
+The gitlab.com instance runs proprietary server software and acts hostile to Tor users.
+
+Its frontend is very slow and unintuitive,
+and nothing works without JavaScript enabled.
 
 [SourceHut](https://sourcehut.org)
 is 100% FOSS and all of its features work without JavaScript.

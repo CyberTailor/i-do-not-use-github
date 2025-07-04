@@ -45,7 +45,7 @@ GitLab is not accessible without JavaScript enabled and hostile to Tor users.
 is 100% FOSS and all of its features work without JavaScript.
 
 If fancy features that SourceHut lacks are needed,
-[Gitea](https://gitea.io)
+[Forgejo](https://forgejo.org)
 is a good alternative too.
 
 

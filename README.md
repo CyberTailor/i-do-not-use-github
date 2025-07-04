@@ -23,6 +23,8 @@ For more information, see:
 * https://mikegerwitz.com/about/githubbub
 * https://sanctum.geek.nz/why-not-github.html
 
+I've come to be displeased with GitHub even more when it started to push its Copilot AI "features" into everyone's faces.
+
 
 ## Why GitLab?
 
